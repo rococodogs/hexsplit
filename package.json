@@ -1,0 +1,27 @@
+{
+  "name": "hexsplit",
+  "version": "1.0.0",
+  "description": "splits a hexadecimal string into its hex character pairs.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malantonio/hexsplit"
+  },
+  "keywords": [
+    "hexadecimal",
+    "split"
+  ],
+  "author": "Adam Malantonio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/malantonio/hexsplit/issues"
+  },
+  "homepage": "https://github.com/malantonio/hexsplit"
+}
